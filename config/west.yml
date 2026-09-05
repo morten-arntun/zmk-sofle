@@ -27,5 +27,14 @@ manifest:
     - name: zmk-module-runtime-input-processor
       remote: cormoran
       revision: zmk-v0.3.0.0
+    - name: zmk-feature-runtime-macro
+      remote: cormoran
+      revision: main
+      import: true
+    - name: zmk
+      remote: cormoran
+      revision: main+custom-studio-protocol
+      import:
+        file: app/west.yml
   self:
     path: config
