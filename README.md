@@ -1,7 +1,7 @@
 # Sofle
 
-- [Chinese](README.md)
-- [English](README_EN.md)
+- [Chinese](README_Chinese.md)
+- [English](README.md)
 
 ## Update List
 
@@ -16,14 +16,10 @@
   3. The GIF animations on the right-hand keyboard screen have been removed, which will significantly reduce the power consumption of the right-hand keyboard.
  
 -2026/6/22
-The keyboard now supports key remapping via DYA STUDIO. Chinese users should contact the seller to obtain the Chinese version of the DYA STUDIO installer. This PC software offers better key remapping functionality than ZMK Studio. Website: https://studio.dya.cormoran.works/ https://studio.dya.cormoran.works/
+The keyboard now supports key remapping via DYA STUDIO. This PC software offers better key remapping functionality than ZMK Studio. Website: https://studio.dya.cormoran.works/ https://studio.dya.cormoran.works/
 
-> If your  sofle was updated before 2025/8/22, please update to the latest firmware.
->
-
-## Contact Me
-
-For 3D printed model files or any issues and malfunctions with the keyboard, please contact [380465425@qq.com](mailto:380465425@qq.com)
+-2026/09/05
+Added support for configuring combos and macros via DYA studio. Also added Norwegian locale syntax to the keymap, for better compatability with Norwegian input modes.
 
 ## Sofle Keymap
 
