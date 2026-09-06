@@ -31,10 +31,10 @@ manifest:
       remote: cormoran
       revision: main
       import: true
-    - name: zmk
-      remote: cormoran
-      revision: main+custom-studio-protocol
-      import:
-        file: app/west.yml
+#    - name: zmk
+#      remote: cormoran
+#      revision: main+custom-studio-protocol
+#      import:
+#        file: app/west.yml
   self:
     path: config
